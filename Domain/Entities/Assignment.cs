@@ -9,6 +9,9 @@ public class Assignment : DadosPadrao
     public bool Conclued { get; set; }
     public DateTime? ConcluedAt { get; set; }
     public DateTime? DeadLine { get; set; }
+
+    public User User { get; set; }
+    public AssingnmentList AssingnmentList { get; set; }
     
     
     //Quando for concluido a Task:

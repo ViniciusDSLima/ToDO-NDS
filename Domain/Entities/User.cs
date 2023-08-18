@@ -9,6 +9,7 @@ public class User : DadosPadrao
     public string Email { get; set; }    
     public string Password { get; set; }
 
-    public virtual Collection<Assignment> Assignments { get; set; } 
-    public virtual Collection<AssingnmentList> AssignmentLists { get; set; } 
+
+    public virtual Collection<Assignment> Assignments { get; set; } = new();
+    public virtual Collection<AssingnmentList> AssignmentLists { get; set; } = new();
 }
