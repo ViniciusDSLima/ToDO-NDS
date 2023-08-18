@@ -1,0 +1,15 @@
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\bin\Debug\net6.0\Application.deps.json
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\bin\Debug\net6.0\Application.dll
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\bin\Debug\net6.0\Application.pdb
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\bin\Debug\net6.0\Domain.dll
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\bin\Debug\net6.0\Domain.pdb
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.dll
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\Application.pdb
+C:\Pessoal\C#\ToDo_NDS\ToDO_NDS\Application\obj\Debug\net6.0\ref\Application.dll

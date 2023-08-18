@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\Application",
+    "\\Application\\Services",
+    "\\Application\\Services\\implementation",
+    "\\Application\\Services\\Interfaces"
+  ],
+  "SelectedNode": "\\Application\\Services\\Interfaces\\IUserService.cs",
+  "PreviewInSolutionExplorer": false
+}
