@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rgHJxQg8biTnoR9oXXhy4pU6iOFHXd4+smSNa9RQTGXc5T9oiB0ed4aLd6IU96sKNnOsM5zStrnl+ALCV9B2rg==",
+  "dgSpecHash": "bvPhdG3oEQOmwes15yaCNEqVN+WKz0OTDLZhGW1FVpUv8bKv3f/ive7ELbRz1TUPH4JPVBmBF5jkvLbgtjDMHg==",
   "success": true,
   "projectFilePath": "C:\\Pessoal\\C#\\ToDo_NDS\\ToDO_NDS\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",

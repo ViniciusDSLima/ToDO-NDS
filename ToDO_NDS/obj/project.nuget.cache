@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VEvNyebvYIahhQt1dcbYgsExBNiCpNRGWwhKK8IMtdSBnqf25RSPzq6L55ADMf8ImP4/RTgF5zckGMbVMrlvNA==",
+  "dgSpecHash": "ekC61FRbGPBv0VLjiZa60iHwBExEUKxiDjKlBEaJKgDCwMmsllF+Wtjx6L0An1JeprAvruWYDeHSZj3ZF4dPAQ==",
   "success": true,
   "projectFilePath": "C:\\Pessoal\\C#\\ToDo_NDS\\ToDO_NDS\\ToDO_NDS\\ToDO_NDS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
